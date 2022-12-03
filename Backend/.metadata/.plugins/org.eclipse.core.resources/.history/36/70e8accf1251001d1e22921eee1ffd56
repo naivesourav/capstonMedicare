@@ -1,5 +1,0 @@
-package com.simplilearn.medicare.services;
-
-public interface CartService {
-
-}
